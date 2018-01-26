@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FlyButton
+  - Background
+  - Ground
+  - Lazer
+  - LazerHolder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BGCollector
+  - Background
+  - Ground
+  - Player
+  - Lazer
+  - LazerCollector
+  - LazerHolder
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 766476913
+    locked: 0
+  - name: Ground
+    uniqueID: 1125958485
+    locked: 0
+  - name: Lazer
+    uniqueID: 1667794561
+    locked: 0
+  - name: Monster
+    uniqueID: 1036607179
+    locked: 0
+  - name: Canvas
+    uniqueID: 1540125899
+    locked: 0
